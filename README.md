@@ -1,2 +1,2 @@
-# VIS - Very Intelligent System
+### VIS - Very Intelligent System
 -- derived from http://hubot.github.com/
